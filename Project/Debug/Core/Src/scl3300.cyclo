@@ -1,0 +1,15 @@
+scl3300.c:5:13:cs_high	1
+scl3300.c:9:13:cs_low	1
+scl3300.c:13:16:CRC8	3
+scl3300.c:29:9:SCL3300_Init	1
+scl3300.c:61:9:write_reg	1
+scl3300.c:76:9:read_reg	2
+scl3300.c:111:9:CalculateCRC	2
+scl3300.c:126:9:Acc_X	2
+scl3300.c:156:9:Acc_Y	2
+scl3300.c:180:9:Acc_Z	2
+scl3300.c:204:9:Ang_X	2
+scl3300.c:227:9:Ang_Y	2
+scl3300.c:251:9:Ang_Z	2
+scl3300.c:276:9:Temp	2
+scl3300.c:299:9:STO_Sensor	2

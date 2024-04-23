@@ -1,0 +1,15 @@
+../Core/Src/scl3300.c:5:13:cs_high	8	static
+../Core/Src/scl3300.c:9:13:cs_low	8	static
+../Core/Src/scl3300.c:13:16:CRC8	24	static
+../Core/Src/scl3300.c:29:9:SCL3300_Init	16	static
+../Core/Src/scl3300.c:61:9:write_reg	24	static
+../Core/Src/scl3300.c:76:9:read_reg	32	static
+../Core/Src/scl3300.c:111:9:CalculateCRC	24	static
+../Core/Src/scl3300.c:126:9:Acc_X	40	static
+../Core/Src/scl3300.c:156:9:Acc_Y	40	static
+../Core/Src/scl3300.c:180:9:Acc_Z	40	static
+../Core/Src/scl3300.c:204:9:Ang_X	40	static
+../Core/Src/scl3300.c:227:9:Ang_Y	40	static
+../Core/Src/scl3300.c:251:9:Ang_Z	40	static
+../Core/Src/scl3300.c:276:9:Temp	40	static
+../Core/Src/scl3300.c:299:9:STO_Sensor	24	static
